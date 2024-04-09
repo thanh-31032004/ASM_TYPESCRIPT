@@ -1,0 +1,380 @@
+{
+  "trips": [
+    {
+      "id": "1",
+      "fromStation": "Sài Gòn",
+      "toStation": "Phan Thiết",
+      "startTime": "2024-04-10",
+      "isBooked": "1",
+      "seats": "61",
+      "price": "50000000",
+      "busHouseId": "Hà Nội Travel",
+      "stations": "Gia Lâm"
+    },
+    {
+      "busHouse": "",
+      "startTime": "2024-04-14",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng",
+      "busHouseId": "Kumho Samco",
+      "isBooked": "1",
+      "id": "SyIBzdp",
+      "stations": "my dinh",
+      "seats": "100",
+      "price": "444"
+    },
+    {
+      "busHouse": "",
+      "startTime": "2024-04-07",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng",
+      "isBooked": "1",
+      "busHouseId": "Kumho Samco",
+      "id": "j8zhfvQ",
+      "seats": "100",
+      "price": "230000000",
+      "stations": "my dinh"
+    },
+    {
+      "busHouse": "",
+      "startTime": "2024-04-01T12:25",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng",
+      "busHouseId": "Hải Phong Limosine",
+      "id": "gT9esk4"
+    },
+    {
+      "busHouseId": "3",
+      "startTime": "2024-04-04T12:15",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng",
+      "station": "Mỹ Đình",
+      "seats": "10",
+      "price": "200000",
+      "id": "4"
+    },
+    {
+      "busHouseId": "3",
+      "startTime": "2024-04-03T12:15",
+      "fromStation": "Hà Nội",
+      "toStation": "Nghệ An",
+      "station": "Mỹ Đình",
+      "seats": "10",
+      "price": "200000",
+      "id": "3"
+    },
+    {
+      "busHouseId": "Hải Phong Limosine",
+      "startTime": "2024-04-01T16:30",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng",
+      "id": "H4M-dsY"
+    },
+    {
+      "id": "e6ea",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-21",
+      "fromStation": "ffffff",
+      "toStation": "fffff",
+      "seats": "100",
+      "price": "111111",
+      "stations": "my dinh"
+    },
+    {
+      "id": "755f",
+      "busHouseId": "1",
+      "startTime": "2024-04-05T10:40",
+      "seats": "10",
+      "price": "2000",
+      "busHouse": "ObjectID",
+      "fromStation": "hà nội",
+      "toStation": "da nang"
+    },
+    {
+      "busHouseId": "2",
+      "startTime": "2024-04-07T12:15",
+      "fromStation": "Hà Nội",
+      "toStation": "Quảng bình",
+      "station": "Quảng bình",
+      "seats": "10",
+      "price": "200000",
+      "id": "9CdhzSr"
+    },
+    {
+      "id": "7e39",
+      "busHouseId": "1",
+      "startTime": "2024-04-05T10:40",
+      "seats": "50",
+      "price": "200000000",
+      "busHouse": "ObjectID",
+      "fromStation": "grde",
+      "toStation": "ưefa"
+    },
+    {
+      "id": "de39",
+      "busHouseId": "2",
+      "startTime": "2024-04-11T10:42",
+      "seats": "50",
+      "price": "2.390.000",
+      "busHouse": "ObjectID",
+      "fromStation": "dsvv",
+      "toStation": "sssssssscd"
+    },
+    {
+      "id": "f8f1",
+      "busHouseId": "2",
+      "startTime": "2024-04-06T10:44",
+      "seats": "50",
+      "price": "111111",
+      "busHouse": "ObjectID",
+      "fromStation": "sdcs",
+      "toStation": "sssssssscd"
+    },
+    {
+      "id": "fb2d",
+      "busHouseId": "2",
+      "startTime": "2024-04-13T10:48",
+      "seats": "50",
+      "price": "sfsf",
+      "fromStation": "sfsf",
+      "toStation": "sfs"
+    },
+    {
+      "id": "6957",
+      "busHouseId": "1",
+      "startTime": "2024-04-13T11:00",
+      "seats": "50",
+      "price": "s",
+      "toStation": "s",
+      "fromStation": "s",
+      "busHouse": "ObjectID"
+    },
+    {
+      "id": "64ba",
+      "busHouseId": "2",
+      "startTime": "2024-04-13T11:01",
+      "seats": "50",
+      "price": "325423",
+      "busHouse": "ObjectID",
+      "fromStation": "rgd",
+      "toStation": "ẻg"
+    },
+    {
+      "id": "fd38",
+      "busHouseId": "1",
+      "startTime": "2024-04-07T11:03",
+      "seats": "50",
+      "price": "111111",
+      "busHouse": "ObjectID",
+      "fromStation": "grde",
+      "toStation": "d"
+    },
+    {
+      "id": "5a81",
+      "busHouseId": "1",
+      "startTime": "2024-04-07T11:03",
+      "seats": "50",
+      "price": "111111",
+      "busHouse": "ObjectID",
+      "fromStation": "grde",
+      "toStation": "d"
+    },
+    {
+      "id": "cd49",
+      "busHouseId": "1",
+      "startTime": "2024-04-05T11:08",
+      "seats": "100",
+      "price": "2000000000",
+      "busHouse": "ObjectID",
+      "fromStation": "hanoi",
+      "toStation": "dânng"
+    },
+    {
+      "id": "fb2e",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-05T15:00",
+      "seats": "100",
+      "price": "2.390.000",
+      "busHouse": "my dinh",
+      "fromStation": "dsvv",
+      "toStation": "sdvv"
+    },
+    {
+      "id": "3346",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-05T15:00",
+      "seats": "100",
+      "price": "2.390.000",
+      "busHouse": "my dinh",
+      "fromStation": "dsvv",
+      "toStation": "sdvv"
+    },
+    {
+      "id": "a498",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-05T15:00",
+      "seats": "100",
+      "price": "2.390.000",
+      "busHouse": "my dinh",
+      "fromStation": "dsvv",
+      "toStation": "sdvv"
+    },
+    {
+      "id": "2cd5",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-05T15:00",
+      "seats": "100",
+      "price": "2.390.000",
+      "busHouse": "my dinh",
+      "fromStation": "dsvv",
+      "toStation": "sdvv"
+    },
+    {
+      "id": "eb20",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-05T15:00",
+      "seats": "100",
+      "price": "2.390.000",
+      "busHouse": "my dinh",
+      "fromStation": "dsvv",
+      "toStation": "sdvv"
+    },
+    {
+      "id": "ba03",
+      "busHouseId": "Cao Lâm",
+      "startTime": "2024-04-05T15:26",
+      "seats": "100",
+      "price": "111111",
+      "stations": "my dinh",
+      "fromStation": "ffffff",
+      "toStation": "sdvv"
+    },
+    {
+      "id": "d97b",
+      "busHouseId": "Cao Lâm",
+      "startTime": "2024-04-13T15:46",
+      "seats": "100",
+      "price": "đ",
+      "stations": "my dinh",
+      "fromStation": "s",
+      "toStation": "d"
+    },
+    {
+      "id": "1e8a",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-05T15:48",
+      "seats": "50",
+      "price": "d",
+      "stations": "my dinh",
+      "fromStation": "d",
+      "toStation": "d"
+    },
+    {
+      "id": "0a5c",
+      "busHouseId": "1",
+      "startTime": "2024-04-05T17:53",
+      "seats": "100",
+      "price": "111111",
+      "stations": "my dinh",
+      "fromStation": "hanoi",
+      "toStation": "dânng"
+    },
+    {
+      "id": "eb72",
+      "busHouseId": "Cao Lâm",
+      "startTime": "2024-04-07T18:01",
+      "seats": "100",
+      "price": "111111",
+      "stations": "String",
+      "fromStation": "hhhhhhhhhh",
+      "toStation": "hhhhhhhhhhhhh"
+    },
+    {
+      "id": "2cd3",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-20T18:57",
+      "seats": "100",
+      "price": "52000",
+      "stations": "my dinh",
+      "fromStation": "dn",
+      "toStation": "nb"
+    },
+    {
+      "id": "9ba3",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-05T19:03",
+      "seats": "100",
+      "price": "111111",
+      "stations": "my dinh",
+      "fromStation": "sdcs",
+      "toStation": "ese"
+    },
+    {
+      "id": "c85d",
+      "busHouseId": "Kumho Samco",
+      "startTime": "2024-04-07",
+      "seats": "100",
+      "price": "111111",
+      "isBooked": "1",
+      "stations": "my dinh",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng"
+    },
+    {
+      "id": "9cd8",
+      "busHouseId": "Hà Nội Travel",
+      "startTime": "2024-04-13",
+      "seats": "100",
+      "price": "333",
+      "stations": "Giáp Bát",
+      "fromStation": "Hà Nội",
+      "toStation": "Hải Phòng"
+    }
+  ],
+  "stations": [
+    {
+      "id": "1",
+      "name": "",
+      "province": ""
+    },
+    {
+      "id": "34a3",
+      "name": "Mỹ Đình"
+    },
+    {
+      "id": "34a3",
+      "name": "Gia Lâm"
+    },
+    {
+      "id": "34a3",
+      "name": "Giáp Bát"
+    }
+  ],
+  "busHouses": [
+    {
+      "id": "7",
+      "name": "",
+      "adress": "Cao tốc Long Thành - Cầu Giây",
+      "phone": "0987654321"
+    },
+    {
+      "id": "1",
+      "name": "Kumho Samco",
+      "adress": "Cao tốc Long Thành - Cầu Giây",
+      "phone": "0987654321"
+    },
+    {
+      "id": "2",
+      "name": "Cao Lâm",
+      "adress": "Cao tốc Phan Thiết",
+      "phone": "0987654321"
+    },
+    {
+      "id": "6",
+      "name": "Hà Nội Travel",
+      "adress": "Cao tốc Long Thành - Cầu Giây",
+      "phone": "0987654321"
+    }
+  ],
+  "users": []
+}
